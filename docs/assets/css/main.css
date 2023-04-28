@@ -2099,9 +2099,9 @@ input, select, textarea {
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 700, 0.5);
 			text-transform: uppercase;
-			margin: 1.25em 0 0 0;
+			margin: 10em 0 0 0;
 			display: block;
 			letter-spacing: 0.2em;
 			font-size: 0.9em;
@@ -2137,11 +2137,11 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #eee;
+					color: #eeb;
 					color: rgba(255, 255, 255, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 1em;
+					font-size: 1.5em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
@@ -2924,11 +2924,11 @@ input, select, textarea {
 		/* Features */
 
 			#features header.style1 {
-				padding-bottom: 4em;
+				padding-bottom: 10em;
 			}
 
 			#features ul.actions {
-				margin-top: 4em;
+				margin-top: 10em;
 			}
 
 		/* Content */
